@@ -17,11 +17,11 @@
 ---
 
 ## 🔹 Skills
-**Embedded Systems:** C/C++ (ARM Cortex-M: STM32, Tiva C, ESP32), FreeRTOS, Zephyr, AUTOSAR  
-**Protocols:** UART, I2C, SPI, CAN, LIN, USB, BLE, Wi-Fi  
-**Debugging Tools:** Oscilloscope, Logic Analyzer, JTAG, Encoders  
-**ML & AI:** YOLOv8, CNNs, RNNs, Autoencoders, PyTorch, TensorFlow, OpenCV  
-**Other Tools:** MATLAB/Simulink, Git/GitHub, Linux, Power BI, SQL  
+- **Embedded Systems:** C/C++ (ARM Cortex-M: STM32, Tiva C, ESP32), FreeRTOS, Zephyr, AUTOSAR  
+- **Protocols:** UART, I2C, SPI, CAN, LIN, USB, BLE, Wi-Fi  
+- **Debugging Tools:** Oscilloscope, Logic Analyzer, JTAG, Encoders  
+- **ML & AI:** YOLOv8, CNNs, RNNs, Autoencoders, PyTorch, TensorFlow, OpenCV  
+- **Other Tools:** MATLAB/Simulink, Git/GitHub, Linux, Power BI, SQL  
 
 ---
 
