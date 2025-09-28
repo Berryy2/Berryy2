@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Mohamed Maged El Sayed Ahmed Elberry  <br><br>🚀 **Embedded Systems & AI Engineer | Master's Student in Mechatronics, Robotics & Automation (GPA: 3.75)**  <br>🔧 Passionate about bridging **hardware, software, and intelligence** through embedded systems, robotics, and AI.  <br>📍 Based in Egypt | 🌍 Open to global remote & onsite opportunities  <br><br>---<br><br>## 🔹 About Me  <br>- 🎓 Currently pursuing a **Master’s in Mechatronics, Robotics, and Automation Engineering** (GPA: 3.75).  <br>- 🤖 Strong foundation in **embedded systems, real-time control (RTOS), and automotive protocols**.  <br>- 🧠 Skilled in **machine learning & deep learning** (CNNs, RNNs, LSTMs, GRUs) with applications in vision and prediction.  <br>- 📈 Solid background in **mathematics for ML** (advanced linear algebra, probability, and statistics).  <br>- 💡 A **problem solver** actively practicing **DSA on LeetCode** to keep algorithms & coding sharp.  <br><br>---<br><br>## 🔹 Technical Skills  <br>**Embedded & Control:**  <br>- C/C++ on ARM Cortex-M (Tiva C, STM32, ESP32), FreeRTOS, Zephyr (basics), AUTOSAR  <br>- Communication Protocols: UART, I2C, SPI, CAN, LIN, USB, BLE, Wi-Fi  <br>- Debugging Tools: Oscilloscope, Logic Analyzer, JTAG, Encoders, Diagnostic Tools  <br>- PLC & HMI development for industrial automation  <br><br>**Machine Learning & AI:**  <br>- Deep Learning: CNNs, RNNs, LSTMs, GRUs, Autoencoders  <br>- Computer Vision: YOLOv8, OpenCV, TensorFlow/Keras, PyTorch  <br>- Statistical & ML Foundations: Regression, Classification, Clustering, Bayesian Decision, Ensemble Methods  <br><br>**Other Tools:**  <br>- MATLAB/Simulink, Git/GitHub, Linux, Jupyter  <br>- Data Visualization (Power BI, Tableau), SQL  <br><br>---<br><br>## 🔹 Featured Projects  <br>- ⚡ **Power Window Control System (Tiva C + FreeRTOS)**  <br>  Real-time motor control with encoders, limit switches, IR safety sensors, and multitasking via RTOS.  <br><br>- 🔥 **Seat Heater Control System (FreeRTOS)**  <br>  Multi-tasking automotive heater control with safety cutoffs and LCD interface.  <br><br>- 🏭 **Mini Production Line (PLC + HMI)**  <br>  Automated line using PLCs, sensors, and actuators to simulate industrial workflows.  <br><br>- 🤖 **Graduation Project: Nurse-Aid Humanoid Robot (A+)**  <br>  - **AI Side:** Computer vision (YOLOv8), speech recognition, NLP for human interaction.  <br>  - **Embedded Role:** ESP32-based control of motors & sensors, UART/I2C/SPI communication, hardware/software integration.  <br><br>- 🖼️ **Image Classification & Face Recognition**  <br>  Compared traditional ML (HOG, KNN, SVM) with Deep Learning (CNNs, encoder-decoder) for large-scale recognition tasks.  <br><br>- 🔢 **Encoder-Decoder for MNIST**  <br>  Built & trained encoder-decoder networks for digit recognition and feature extraction.  <br><br>---<br><br>## 🔹 Problem Solving  <br>- 💻 Active on **LeetCode** → practicing Data Structures & Algorithms regularly.  <br>- Focus on **optimized, clean, and efficient solutions** for real-world engineering and coding challenges.  <br><br>---<br><br>## 📫 Connect with Me  <br>- 💼 [LinkedIn](https://www.linkedin.com/) *(add your actual link)*  <br>- 🐙 [GitHub](https://github.com/yourusername)  <br>- 📧 Email: mohamed_berry210@hotmail.com  <br><br>---<br><br>⭐ *Always exploring the intersection of embedded systems, AI, and robotics — and how intelligent systems can make the world smarter and safer.*  <br>
 
-<!--
-**Berryy2/Berryy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mohamed Elberry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ Mohamed Elberry) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MohammedBerry8) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=berryy2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=berryy2&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=berryy2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=berryy2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=berryy2&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=berryy2&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
