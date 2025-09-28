@@ -36,8 +36,8 @@
 ---
 
 ## 🔹 Problem Solving
-💻 Practicing **Data Structures & Algorithms** on **LeetCode**.  
-✨ Focused on writing **optimized, clean, and efficient solutions**.  
+- 💻 Practicing **Data Structures & Algorithms** on **LeetCode**.  
+- ✨ Focused on writing **optimized, clean, and efficient solutions**.  
 
 ---
 
