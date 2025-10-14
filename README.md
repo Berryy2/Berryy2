@@ -8,7 +8,7 @@
 ---
 
 ## 🔹 Highlights
-- 🎓 Master’s student in **Mechatronics, Robotics & Automation** (GPA: 3.75).  
+- 🎓 Master’s student in at Ain shams university **Mechatronics, Robotics & Automation** Department (GPA: 3.75).  
 - ⚡ Strong in **embedded systems, RTOS, and automotive protocols**.  
 - 🧠 Experienced in **Machine Learning & Deep Learning** (CNNs, RNNs, LSTMs, GRUs).  
 - 📊 Solid foundation in **ML mathematics** (linear algebra, probability, statistics).  
